@@ -109,3 +109,4 @@ def plotData(X_train, y_train, xlabel = "X1", ylabel="X2", w=[], b = 0, plot_db 
 		plt.contour(xx, yy, Z, cmap=plt.cm.Paired)
 		plt.xlabel(xlabel)
 		plt.ylabel(ylabel)
+		
